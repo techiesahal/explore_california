@@ -4,6 +4,7 @@ tempfile.txt
 .DS_Store
 *.zip
 *.gz
+dailylogs/
 dailylogs/*.log
 assets/photoshop/
 assets/videos/
